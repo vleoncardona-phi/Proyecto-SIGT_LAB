@@ -1,0 +1,6 @@
+id_paciente,nombre,edad,servicio
+1001,Ana Ruiz,54,UCI
+1002,Luis Gomez,30,Urgencias
+1003,Marta Diaz,65,Hospitalizacion
+1004,Paciente QA 1,-5,UCI
+1005,Paciente QA 2,veinte,Urgencias

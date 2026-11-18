@@ -1,0 +1,5 @@
+id_muestra,id_paciente,tipo_muestra,microorganismo,tincion_gram,fecha_aislamiento
+MUE_2026_041,1001,sangre,Pseudomonas aeruginosa,Negativo,2026-11-10
+MUE_2026_042,1002,orina,Escherichia coli,Negativo,2026-11-11
+MUE_2026_043,1003,esputo,Staphylococcus aureus,Positivo,2026-11-12
+MUE_QA_001,1004,LCR,Desconocido,No informado,31/02/2026

@@ -1,0 +1,20 @@
+[
+    {
+        "id_nota": "NOT_BAC_882",
+        "id_muestra": "MUE_2026_041",
+        "id_usuario": "usr_bacteriologo1",
+        "fecha_registro": "2026-11-10",
+        "observacion_microscopia": "Bacilos Gram negativos. Cultivo con pigmento verde (piocianina) y olor frutal dulce.",
+        "etiquetas": [
+            "UCI",
+            "Resistencia_Alta",
+            "Gram_Negativo",
+            "MDR_Sospecha"
+        ],
+        "morfologia_colonia": {
+            "color": "Verde-azulado",
+            "hemolisis": "Beta-hemolítico",
+            "borde": "Irregular"
+        }
+    }
+]
