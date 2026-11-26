@@ -1,0 +1,38 @@
+{
+    "Ceftazidima": {
+        "familia": "Cefalosporinas",
+        "sensible_max": 8.0,
+        "resistente_min": 32.0,
+        "fuente": "CLSI M100 (referencia académica P. aeruginosa)"
+    },
+    "Ciprofloxacina": {
+        "familia": "Fluoroquinolonas",
+        "sensible_max": 0.5,
+        "resistente_min": 2.0,
+        "fuente": "CLSI M100 (referencia académica P. aeruginosa)"
+    },
+    "Meropenem": {
+        "familia": "Carbapenemicos",
+        "sensible_max": 2.0,
+        "resistente_min": 8.0,
+        "fuente": "CLSI M100 (referencia académica P. aeruginosa / Enterobacterales)"
+    },
+    "Ceftriaxona": {
+        "familia": "Cefalosporinas",
+        "sensible_max": 1.0,
+        "resistente_min": 4.0,
+        "fuente": "CLSI M100 (referencia académica Enterobacterales)"
+    },
+    "Oxacilina": {
+        "familia": "Penicilinas",
+        "sensible_max": 2.0,
+        "resistente_min": 4.0,
+        "fuente": "CLSI M100 (referencia académica S. aureus)"
+    },
+    "Penicilina": {
+        "familia": "Penicilinas",
+        "sensible_max": 0.12,
+        "resistente_min": 0.25,
+        "fuente": "CLSI M100 (referencia académica)"
+    }
+}
