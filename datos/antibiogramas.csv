@@ -1,7 +1,8 @@
-id_antibiograma,id_muestra,antibiotico,familia,cmi_ug_ml,interpretacion
+id_antibiograma,id_muestra,antibiotico,familia_antibiotico,cmi_ug_ml,interpretacion
 1,MUE_2026_041,Ceftazidima,Cefalosporinas,32.0,Resistente
 2,MUE_2026_041,Ciprofloxacina,Fluoroquinolonas,4.0,Resistente
 3,MUE_2026_041,Meropenem,Carbapenemicos,8.0,Resistente
 4,MUE_2026_042,Ceftriaxona,Cefalosporinas,16.0,Resistente
 5,MUE_2026_042,Meropenem,Carbapenemicos,0.5,Sensible
+6,MUE_2026_043,Oxacilina,Penicilinas,4.0,Resistente
 7,MUE_QA_001,Penicilina,Penicilinas,-2.5,Sensible

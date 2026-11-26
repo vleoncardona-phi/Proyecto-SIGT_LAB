@@ -1,4 +1,4 @@
-id_paciente,nombre,edad,servicio
+id_paciente,nombre,edad,servicio_hospitalario
 1001,Ana Ruiz,54,UCI
 1002,Luis Gomez,30,Urgencias
 1003,Marta Diaz,65,Hospitalizacion

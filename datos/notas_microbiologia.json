@@ -15,6 +15,31 @@
             "color": "Verde-azulado",
             "hemolisis": "Beta-hemolítico",
             "borde": "Irregular"
+        },
+        "condiciones_incubacion": {
+            "temperatura_c": 37.0,
+            "co2_pct": 5.0
+        }
+    },
+    {
+        "id_nota": "NOT_BAC_883",
+        "id_muestra": "MUE_2026_043",
+        "id_usuario": "usr_bacteriologo2",
+        "fecha_registro": "2026-11-12",
+        "observacion_microscopia": "Cocos Gram positivos agrupados en racimos. Colonias doradas con beta-hemólisis.",
+        "etiquetas": [
+            "Hospitalizacion",
+            "Gram_Positivo",
+            "MRSA"
+        ],
+        "morfologia_colonia": {
+            "color": "Amarillo-dorado",
+            "hemolisis": "Beta-hemolítico",
+            "borde": "Circular"
+        },
+        "condiciones_incubacion": {
+            "temperatura_c": 36.5,
+            "co2_pct": 5.0
         }
     }
 ]
