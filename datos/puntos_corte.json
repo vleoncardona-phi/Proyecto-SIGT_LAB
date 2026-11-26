@@ -1,0 +1,50 @@
+{
+    "Ceftazidima": {
+        "familia": "Cefalosporinas",
+        "sensible_max": 8.0,
+        "resistente_min": 32.0,
+        "fuente": "CLSI M100-Ed36 (2026) - Referencia académica SIGT-LAB (P. aeruginosa)"
+    },
+    "Ciprofloxacina": {
+        "familia": "Fluoroquinolonas",
+        "sensible_max": 0.5,
+        "resistente_min": 2.0,
+        "fuente": "CLSI M100-Ed36 (2026) - Referencia académica SIGT-LAB (P. aeruginosa)"
+    },
+    "Meropenem": {
+        "familia": "Carbapenemicos",
+        "sensible_max": 2.0,
+        "resistente_min": 8.0,
+        "fuente": "CLSI M100-Ed36 (2026) - Referencia académica SIGT-LAB (P. aeruginosa / Enterobacterales)"
+    },
+    "Ceftriaxona": {
+        "familia": "Cefalosporinas",
+        "sensible_max": 1.0,
+        "resistente_min": 4.0,
+        "fuente": "CLSI M100-Ed36 (2026) - Referencia académica SIGT-LAB (Enterobacterales)"
+    },
+    "Oxacilina": {
+        "familia": "Penicilinas",
+        "sensible_max": 2.0,
+        "resistente_min": 4.0,
+        "fuente": "CLSI M100-Ed36 (2026) - Referencia académica SIGT-LAB (S. aureus - control MRSA)"
+    },
+    "Penicilina": {
+        "familia": "Penicilinas",
+        "sensible_max": 0.12,
+        "resistente_min": 0.25,
+        "fuente": "CLSI M100-Ed36 (2026) - Referencia académica SIGT-LAB"
+    },
+    "Gentamicina": {
+        "familia": "Aminoglucosidos",
+        "sensible_max": 4.0,
+        "resistente_min": 16.0,
+        "fuente": "CLSI M100-Ed36 (2026) - Referencia académica SIGT-LAB"
+    },
+    "Amikacina": {
+        "familia": "Aminoglucosidos",
+        "sensible_max": 16.0,
+        "resistente_min": 64.0,
+        "fuente": "CLSI M100-Ed36 (2026) - Referencia académica SIGT-LAB"
+    }
+}
