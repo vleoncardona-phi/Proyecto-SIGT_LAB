@@ -36,3 +36,15 @@ CREATE TABLE IF NOT EXISTS antibiogramas (id_antibiograma INT AUTO_INCREMENT PRI
     interpretacion ENUM('Sensible', 'Intermedio', 'Resistente') NOT NULL,
     CONSTRAINT fk_antibiograma_muestra FOREIGN KEY (id_muestra) 
         REFERENCES muestras_cultivos(id_muestra) ON DELETE CASCADE ON UPDATE CASCADE);
+
+USE prof_info120262;
+
+INSERT IGNORE INTO administradores (id_admin, nombre, usuario_login, correo) VALUES
+    ('ADM001', 'Administrador del Laboratorio', 'admin_lab', 'admin@sigtlab.edu.co');
+
+INSERT IGNORE INTO usuarios (id_usuario, nombre, tarjeta_profesional, rol, estado) VALUES
+    ('usr_bacteriologo1', 'Carlos', 'TP-10001', 'Bacteriologo', 'Activo'),
+    ('usr_bacteriologo2', 'Laura', 'TP-10002', 'Bacteriologo', 'Activo');
+
+SELECT * FROM administradores;
+SELECT * FROM usuarios;
